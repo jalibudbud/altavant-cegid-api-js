@@ -1,0 +1,22 @@
+{
+  "name": "cegid-api-js",
+  "version": "1.0.0",
+  "description": "Service to communicate Cegid API in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/altavant-consulting/cegid-api-js.git"
+  },
+  "keywords": [
+    "Cegid"
+  ],
+  "author": "Altavant Consulting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/altavant-consulting/cegid-api-js/issues"
+  },
+  "homepage": "https://gitlab.com/altavant-consulting/cegid-api-js#readme"
+}
