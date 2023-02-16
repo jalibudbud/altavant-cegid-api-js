@@ -1,7 +1,2 @@
-const helloWorld = 'Hello World!';
-
-const get = () => {
-  return helloWorld;
-}
-
-module.exports = { helloWorld };
+const cegid = require('./lib');
+module.exports = cegid;
